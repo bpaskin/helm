@@ -1,0 +1,6 @@
+application:
+  name: hello-world
+  repo: quay.io/bpaskin_us/helloworld
+  version: v2
+container:
+  pods: 3
